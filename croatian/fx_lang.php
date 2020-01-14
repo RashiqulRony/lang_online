@@ -1,5 +1,5 @@
 <?php
-$lang['account_details'] = 'Podaci naloga';
+$lang['account_details'] = 'Podaci naloga.';
 $lang['access_denied'] = 'Pristup modulu je zabranjen! Obratite se administratoru.';
 $lang['activities'] = 'Aktivnosti.';
 $lang['activities11'] = 'Activity Feed';

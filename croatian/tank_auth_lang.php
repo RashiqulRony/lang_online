@@ -1,5 +1,5 @@
 <?php
-$lang['auth_incorrect_password'] = 'Neispravna lozinka.';
+$lang['auth_incorrect_password'] = 'Neispravna lozinka';
 $lang['auth_incorrect_login'] = 'Neispravno korisničko ime';
 $lang['auth_incorrect_email_or_username'] = 'Korisničko ime ili adresa e-pošte ne postoјi';
 $lang['auth_email_in_use'] = 'Adresa e-pošte јe već u upotrebi. Molim Vas promenite adresu.';
